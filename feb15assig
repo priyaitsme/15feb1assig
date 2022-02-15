@@ -1,0 +1,13 @@
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+
+
+OUTPUT:
+6
+4
+10
+2
+24
